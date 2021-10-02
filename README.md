@@ -1,13 +1,14 @@
 
 # My gift Box
 
-I using Html and CSS to design this project 
+in this project you saw we are using html and css to make look good.
+you might like this
 
 
 
 ## Authors
 
-- [shubhkasyap](https://github.com/shubhkasyap)
+- [ADITYA  KUMAR SINGH](https://github.com/mgshubham90)
 
   
 ## 🔗 Links
